@@ -124,107 +124,107 @@
 
 
             .advantage-container {
-        position: relative;
-        display: flex;
-        justify-content: space-evenly;
-        align-items: center;
-        gap: 20px !important;
-    }
+                position: relative;
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                gap: 20px !important;
+            }
 
-    .advantage-container .image {
-        height: 100%;
-        object-fit: cover; /* Menyesuaikan gambar dengan kontainer */
-    }
+            .advantage-container .image {
+                height: 100%;
+                object-fit: cover; 
+            }
 
-    .advantage-container h1 {
-        top: 10%;
-        font-size: 2.5rem; /* Ukuran font judul lebih besar */
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
+            .advantage-container h1 {
+                top: 10%;
+                font-size: 2.5rem; 
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
 
-    .advantage {
-        top: 20%; /* Menurunkan posisi div advantage */
-        padding: 0 10%;
-        display: flex;
-        justify-content: space-evenly; /* Menjaga jarak antar kartu dengan spasi yang seimbang */
-        align-items: center;
-        gap: 0.8rem;  
-        margin: 0 !important; 
-    }
+            .advantage {
+                top: 20%; 
+                padding: 0 10%;
+                display: flex;
+                justify-content: space-evenly; 
+                align-items: center;
+                gap: 0.8rem;  
+                margin: 0 !important; 
+            }
 
-    .advantage-card {
-        width: 30%; /* Membuat kartu lebih kecil dan sesuai dengan ukuran layar */
-        height: 250px !important; /* Menyesuaikan tinggi kartu */
-        margin-bottom: 30px;
-        gap: 20px;
-    }
+            .advantage-card {
+                width: 30%; 
+                height: 250px !important;
+                margin-bottom: 30px;
+                gap: 20px;
+            }
 
-    .advantage-card img {
-        width: 80px; /* Mengurangi ukuran gambar */
-        height: 80px; /* Menjaga proporsi gambar bulat */
-        object-fit: cover;
+            .advantage-card img {
+                width: 80px; 
+                height: 80px;
+                object-fit: cover;
 
-    }
+            }
 
-    .card-body h3 {
-        font-size: 1.3rem; /* Menyesuaikan ukuran font heading */
-    }
+            .card-body h3 {
+                font-size: 1.3rem; 
+            }
 
-    .card-body p {
-        font-size: 0.8rem; /* Menyesuaikan ukuran font paragraf */
-        margin-top: 15px;
-    }
+            .card-body p {
+                font-size: 0.8rem; 
+                margin-top: 15px;
+            }
 
-/* Command */
-    .features-container img{
-        width: 80px; /* Mengurangi ukuran gambar */
-        height: 80px;
-    }
+        /* Command */
+            .features-container img{
+                width: 80px; 
+                height: 80px;
+            }
 
-    .features-container h3{
-        font-size: 1.25rem;
-    }
+            .features-container h3{
+                font-size: 1.25rem;
+            }
 
-    .features-container p{
-        font-size: 0.8rem;
-    }
+            .features-container p{
+                font-size: 0.8rem;
+            }
 
-/* Value*/
-    .value-container{
-        position: relative;
-        display: flex;
-        
-    }
+        /* Value*/
+            .value-container{
+                position: relative;
+                display: flex;
+                
+            }
 
-    .value-item img{
-        width: 40px;
-        height: 40px;
-    }
+            .value-item img{
+                width: 40px;
+                height: 40px;
+            }
 
-    .value-item{
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 30px !important;
-    }
+            .value-item{
+                position: absolute;
+                left: 50%;
+                transform: translateX(-50%);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-bottom: 30px !important;
+            }
 
-/* Reference */
-    .reference-container h1{
-        font-size: 1.5rem ;
-    }
+        /* Reference */
+            .reference-container h1{
+                font-size: 1.5rem ;
+            }
 
-/* Explore */
+        /* Explore */
 
-    .explore-container .card{
-        width: 25% !important;
-        height: auto
-    }
+            .explore-container .card{
+                width: 25% !important;
+                height: auto
+            }
 
-}
+        }
 
     </style>
 @endsection
