@@ -47,7 +47,7 @@
         }
 
         /* Dekstop Responsive */
-        @media (min-width: 1024px ) and (max-width: 1279px){
+        @media (min-width: 1024px ){
             .first{
                 top: 15% !important;
                 font-size: 1.5rem !important;
