@@ -50,6 +50,7 @@
         @media (min-width: 1024px){
             .first{
                 top: 20% !important;
+                font-size: 1.5rem !important;
             }  
 
             .second{
