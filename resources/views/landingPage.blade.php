@@ -47,18 +47,18 @@
         }
 
         /* Dekstop Responsive */
-        @media (min-width: 1024px ){
+        @media (min-width: 1024px){
             .first{
-                top: 15% !important;
-                font-size: 1.5rem !important;
+                top: 30% !important;
+                font-size: 2rem !important;
             }  
 
             .second{
-                top: 25% !important;
+                top: 40% !important;
             }
 
             .third{
-                top: 45% !important;
+                top: 55% !important;
             }
 
 /* About  */
