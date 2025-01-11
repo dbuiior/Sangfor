@@ -58,7 +58,7 @@
             }
 
             .third{
-                top: 55% !important;
+                top: 45% !important;
             }
 
 /* About  */
