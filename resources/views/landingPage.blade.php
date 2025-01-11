@@ -59,6 +59,7 @@
 
             .third{
                 top: 50% !important;
+                margin-top: 10px !important;
             }
 
 /* About  */
