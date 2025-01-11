@@ -49,8 +49,7 @@
         /* Dekstop Responsive */
         @media (min-width: 1024px){
             .first{
-                top: 30% !important;
-                font-size: 2rem !important;
+                top: 20% !important;
             }  
 
             .second{
